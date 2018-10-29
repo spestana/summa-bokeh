@@ -1,7 +1,7 @@
 # summa-bokeh
 The objective of our project is to investigate the effects from different albedo model schemes and snow water drainage parameters on SUMMA model output. To expedite investigation at differnt temporal scales we showcase the bokeh interactive python visualization library.
 
-Linke to Hydroshare resource: https://www.hydroshare.org/resource/38d4f881e5b946dabb1fe5d14b23aab7  
+Link to Hydroshare resource: https://www.hydroshare.org/resource/38d4f881e5b946dabb1fe5d14b23aab7  
 ***
 
 ## Snow water drainage (from Homework 1F)
