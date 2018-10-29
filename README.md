@@ -1,7 +1,14 @@
 # summa-bokeh
 The objective of our project is to investigate the effects from different albedo model schemes and snow water drainage parameters on SUMMA model output. To expedite investigation at differnt temporal scales we showcase the bokeh interactive python visualization library.
 
-Link to Hydroshare resource: https://www.hydroshare.org/resource/38d4f881e5b946dabb1fe5d14b23aab7  
+
+* [Hydroshare resource](https://www.hydroshare.org/resource/38d4f881e5b946dabb1fe5d14b23aab7)
+* Snow water drainage tests, [notebook](https://nbviewer.jupyter.org/github/spestana/summa-bokeh/blob/master/summa_bokeh.ipynb)
+* Snow water drainage tests, [html plots](https://nbviewer.jupyter.org/github/spestana/summa-bokeh/blob/master/plot_snow_water_drainage.html)
+* Albedo tests, [html plots](https://nbviewer.jupyter.org/github/spestana/summa-bokeh/blob/master/plot_albedo.html)
+* [Bokeh documentation](https://bokeh.pydata.org/en/latest/)
+
+
 ***
 
 ## Snow water drainage (from Homework 1F)
